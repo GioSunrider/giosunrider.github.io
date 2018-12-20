@@ -1,0 +1,142 @@
+blog_title:       "DEF: Blog"
+description:      My personal blog
+comments: false
+disqus_shortname: 
+reading_time:     true
+words_per_minute: 200
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+#url: https://david-estevez.github.io
+
+# Owner/author information
+owner:
+  name:           David Estévez
+  avatar:         me.png
+  bio:            "Curious engineer researching how to teach robots to do your laundry. I also enjoy building stuff."
+  long-bio: "Electronics Engineer with a M.Sc in Robotics. I am currently working on my Ph.D at University Carlos III of Madrid, researching about garment perception and manipulation applied to robotics (i.e. teaching a robot how to do the laundry). My research interests are Computer Vision, Robotics, and Mixed Reality applied to robots."
+  email:          destevez@ing.uc3m.es
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:  DEFrobotics      
+  facebook:       
+  github: David-Estevez         
+  stackexchange:  
+  linkedin: david-estevez-2aaa4595      
+  instagram:     
+  flickr:         
+  tumblr:         
+  # google plus id, include the '+', eg +mmistakes
+  google_plus:    +davidestevezfernandez
+
+# Background image to be tiled on all pages
+background: 
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    Europe/Madrid
+future:      true
+highlighter: rouge
+markdown:    kramdown
+gems:
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-feed
+sass:
+  sass_dir: _sass
+  style: compressed
+
+# https://github.com/mojombo/jekyll/wiki/Permalinks
+# permalink:   /:categories/:title/
+
+# Amount of post to show on home page
+paginate: 5
+paginate_path: "/posts/blog/page:num"
+
+kramdown:
+  input: GFM
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+
+include: 
+  - .htaccess
+exclude: 
+  - "*.less"
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - CHANGELOG
+  - Capfile
+  - Gemfile
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - config
+  - gulpfile.js
+  - lib
+  - log
+  - node_modules
+  - package.json
+  - spec
+  - tmp
+
+# Awesome theme data:
+#url: http://localhost:4000
+#baseurl: https://david-estevez.github.io
+
+# Site settings
+title: DEF
+email: destevez@ing.uc3m.es
+description: "David Estevez's Personal Website"
+
+# Color settings (hex-codes without the leading hash-tag)
+color:
+  primary: c22425
+  secondary: fec503  
+  secondary-dark: 333
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: github
+    url: https://github.com/David-Estevez
+  - title: youtube
+    url: https://www.youtube.com/user/david11def
+  - title: google-plus 
+    url: https://plus.google.com/+davidestevezfernandez
+  - title: twitter
+    url: https://twitter.com/DEFrobotics
+  - title: linkedin
+    url: https://linkedin.com/in/david-estevez-2aaa4595
+  - title: envelope
+    url : mailto:destevez@ing.uc3m.es
+
+# Build settings
+markdown: kramdown
+#permalink: pretty
+
+# Collections
+collections:
+    projects:
+        description: Some stuff I make in my free time.
+        title: Projects
+        output: true
+    research:
+        description: Serious stuff I do at work.
+        title: Research
+        output: true
+    tutorials:
+        description: If I was able to do it, you definitely can.
+        title: Tutorials
+        output: true
+
