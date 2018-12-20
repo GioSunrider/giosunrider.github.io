@@ -118,7 +118,7 @@ social:
   - title: linkedin
     url: https://linkedin.com/in/giosunrider
   - title: envelope
-    url : mailto: giosunrider@gmail.com
+    url : mailto:giosunrider@gmail.com
 
 # Build settings
 markdown: kramdown
