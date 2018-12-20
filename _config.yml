@@ -109,10 +109,6 @@ color:
 social:
   - title: github
     url: https://github.com/GioSunrider
-  - title: youtube
-    url: 
-  - title: google-plus 
-    url:
   - title: twitter
     url: https://twitter.com/GioSunrider
   - title: linkedin
@@ -130,12 +126,4 @@ collections:
         description: Personal projects
         title: Projects
         output: true
-    research:
-        description: 
-        title:
-        output: false
-    tutorials:
-        description: 
-        title: Tutorials
-        output: false
 
