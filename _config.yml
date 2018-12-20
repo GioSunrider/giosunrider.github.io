@@ -91,8 +91,8 @@ exclude:
   - tmp
 
 # Awesome theme data:
-#url: http://localhost:4000
-#baseurl: https://david-estevez.github.io
+#url: 
+#baseurl: 
 
 # Site settings
 title: GioSunrider
@@ -111,6 +111,10 @@ social:
     url: https://github.com/GioSunrider
   - title: twitter
     url: https://twitter.com/GioSunrider
+  - title: instagram
+    url: https://www.instagram.com/giorgioramos18/
+  - title: facebook
+    url: https://www.facebook.com/GioSunrider   
   - title: linkedin
     url: https://linkedin.com/in/giosunrider
   - title: envelope
