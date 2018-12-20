@@ -1,4 +1,4 @@
-blog_title:       "DEF: Blog"
+blog_title:       "GioSunrider Blog"
 description:      My personal blog
 comments: false
 disqus_shortname: 
@@ -10,22 +10,21 @@ words_per_minute: 200
 
 # Owner/author information
 owner:
-  name:           David Estévez
+  name:           Jorge Ramos
   avatar:         me.png
-  bio:            "Curious engineer researching how to teach robots to do your laundry. I also enjoy building stuff."
-  long-bio: "Electronics Engineer with a M.Sc in Robotics. I am currently working on my Ph.D at University Carlos III of Madrid, researching about garment perception and manipulation applied to robotics (i.e. teaching a robot how to do the laundry). My research interests are Computer Vision, Robotics, and Mixed Reality applied to robots."
-  email:          destevez@ing.uc3m.es
+  bio:            " "
+  long-bio: " "
   # Social networking links used in footer. Update and remove as you like.
-  twitter:  DEFrobotics      
-  facebook:       
-  github: David-Estevez         
+  twitter:  GioSunrider      
+  facebook: GioSunrider      
+  github: GioSunrider        
   stackexchange:  
-  linkedin: david-estevez-2aaa4595      
-  instagram:     
+  linkedin:  giosunrider    
+  instagram: giorgioramos18    
   flickr:         
   tumblr:         
   # google plus id, include the '+', eg +mmistakes
-  google_plus:    +davidestevezfernandez
+  google_plus:    
 
 # Background image to be tiled on all pages
 background: 
@@ -96,9 +95,9 @@ exclude:
 #baseurl: https://david-estevez.github.io
 
 # Site settings
-title: DEF
-email: destevez@ing.uc3m.es
-description: "David Estevez's Personal Website"
+title: GioSunrider
+email: giosunrider@gmail.com
+description: "Jorge Ramos's Personal Website"
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -109,17 +108,17 @@ color:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: github
-    url: https://github.com/David-Estevez
+    url: https://github.com/GioSunrider
   - title: youtube
-    url: https://www.youtube.com/user/david11def
+    url: 
   - title: google-plus 
-    url: https://plus.google.com/+davidestevezfernandez
+    url:
   - title: twitter
-    url: https://twitter.com/DEFrobotics
+    url: https://twitter.com/GioSunrider
   - title: linkedin
-    url: https://linkedin.com/in/david-estevez-2aaa4595
+    url: https://linkedin.com/in/giosunrider
   - title: envelope
-    url : mailto:destevez@ing.uc3m.es
+    url : mailto: giosunrider@gmail.com
 
 # Build settings
 markdown: kramdown
@@ -128,15 +127,15 @@ markdown: kramdown
 # Collections
 collections:
     projects:
-        description: Some stuff I make in my free time.
+        description: Personal projects
         title: Projects
         output: true
     research:
-        description: Serious stuff I do at work.
-        title: Research
-        output: true
+        description: 
+        title:
+        output: false
     tutorials:
-        description: If I was able to do it, you definitely can.
+        description: 
         title: Tutorials
-        output: true
+        output: false
 
