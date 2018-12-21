@@ -1,3 +1,30 @@
+# Base configs Gallery
+baseurl: "https://giosunrider.github.io"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics:
+
+# UI configs
+title: "Photography by GioSunrider"
+subtitle: "See the world through my eyes!"
+author: "GioSunrider"
+header:
+ title: "Photography"
+ subtitle: "by GioSunrider"
+footer:
+ name: "Jorge Ramos"
+ bio: ""
+ github: ""
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/GioSunrider"
+  twitter: "https://www.twitter.com/GioSunrider"
+  instagram: "https://www.instagram.com/giorgioramos18"
+  dribbble: 
+  linkedin: "https://in.linkedin.com/in/giosunrider"
+  github: "https://www.github.com/giosunrider"
+  
+#BLOG
 blog_title:       "GioSunrider's Logbook"
 description:      My personal blog
 comments: false
