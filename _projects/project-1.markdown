@@ -1,6 +1,6 @@
 ---
 title: MiCalculadora
-subtitle: 
+subtitle: for Xiaomi Redmi Note 5
 modal-id: 1
 type: projects
 date: 28-12-2018
