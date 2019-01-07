@@ -1,12 +1,10 @@
 ---
 layout: post
 title: Ex-Machina
-description: Hello World! post
+description: Ensayo sobre Ex-Machina
 modified: 2016-08-26
 tags: [misc]
 ---
-
-#	Introducción
 
 Ex Machina, es una película de ciencia ficción británica escrita y dirigida por Alex Garland, estrenada en 2015. La película fue galardonada con numerosos premios, entre los que destaca el Oscar a los mejores efectos especiales. 
 
