@@ -1,7 +1,7 @@
 ---
 title: Diseño e Implementacion de un Robot Omnidireccional 
 subtitle: para fines de entretenimiento
-modal-id: 1
+modal-id: 2
 type: projects
 date: 2019-01-20
 img: OmniRobot.png
